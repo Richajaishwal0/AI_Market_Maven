@@ -1,0 +1,37 @@
+You are a professional frontend developer. I have a project called **Market Maven** (uploaded as a zip file) that performs well functionally, but now I want to **transform its GUI into a more professional, elegant, and responsive platform**.
+
+### OBJECTIVE:
+Upgrade the **entire user interface** of the project to make it:
+- Modern and professional
+- Clean and visually pleasing
+- Fully responsive (mobile/tablet/desktop)
+- Suitable for real users on a production-level platform
+
+### CURRENT STACK:
+The project may be using HTML, CSS, JS, and optionally Python (Flask/Streamlit/etc). You can check and optimize accordingly.
+
+### DESIGN INSTRUCTIONS:
+1. **Use modern design principles** – spacing, color palette, consistency, and clean font usage.
+2. **Add a fixed header/navbar** with brand name/logo and navigation.
+3. **Use card-based or section-based layout** for better content organization.
+4. Integrate **charts, graphs or visuals** if the platform shows analytics or forecasts (use Chart.js or Plotly if needed).
+5. Make all elements **responsive using CSS Grid or Flexbox**.
+6. Add **loading animations** or transitions for a smoother feel.
+7. Integrate professional UI frameworks (if needed), like:
+   - Bootstrap 5 (for quick responsiveness)
+   - Tailwind CSS (for clean utility-based styling)
+   - Material UI (for components)
+
+### OPTIONAL ADDITIONS:
+- Add hover effects, shadows, button states (active/disabled).
+- If forms are used, make them user-friendly with floating labels and validation.
+- Add favicon and proper page title.
+- Use Google Fonts for a sleek typography.
+
+### OUTPUT:
+Please review the existing code and refactor the GUI accordingly. Do **not break existing functionality**, just enhance the frontend appearance. If you need to add or restructure HTML/CSS/JS files, feel free to do that. Make sure everything still runs well.
+
+Once complete, provide:
+- Updated HTML/CSS/JS files
+- Preview screenshots or instructions to view changes locally
+

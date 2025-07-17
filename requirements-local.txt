@@ -1,0 +1,25 @@
+# Market Maven - Requirements for Local Installation and Deployment
+# Use this file for local development and Streamlit Community Cloud deployment
+
+# Core Framework
+streamlit>=1.27.0
+
+# Data Processing
+pandas>=2.0.3
+numpy>=1.24.3
+openpyxl>=3.1.2
+
+# Machine Learning
+scikit-learn>=1.3.0
+joblib>=1.3.0
+
+# Visualization
+plotly>=5.15.0
+
+# Additional Dependencies
+python-dateutil>=2.8.2
+pytz>=2023.3
+
+# Optional: Enhanced Development Tools (uncomment if needed)
+# matplotlib>=3.7.2
+# seaborn>=0.12.2
